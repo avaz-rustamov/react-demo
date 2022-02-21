@@ -1,5 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
+import "./components/header/header.scss";
 import Header from "./components/header/header";
 
 function App() {
@@ -7,14 +7,8 @@ function App() {
     <div className="App">
       <Header />
       <Header />
-      <Header />
-      <Header />
-      <Header />
-      <Header />
-      <Header />
-      <Header />
+
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>Hello World</code>
           <h1>Samandar Abdulaxatov Epam Developer In Sha Alloh</h1>

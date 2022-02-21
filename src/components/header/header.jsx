@@ -1,4 +1,4 @@
 function Header() {
-  return <h1>Avaz...</h1>;
+  return <h1 className="avaz">Avaz...</h1>;
 }
 export default Header;
